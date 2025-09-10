@@ -1,5 +1,8 @@
 package university;
-
+/**
+ * Represents a professor in the university.
+ * Inherits from Person and implements the teaching behavior.
+ */
 public class Professor extends Person{
     private String department;
 
